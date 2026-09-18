@@ -30,9 +30,9 @@ CUDA-kompatibilan GPU, uz izmenu putanja do podataka.
 Skupovi podataka **nisu** deo repozitorijuma zbog uslova korišćenja.
 Preuzimaju se sa zvaničnih izvora:
 
-- **BUSI** — ____ (link ka izvoru)
-- **BUS-BRA** — ____ (link ka izvoru)
-- **BUS-UCLM** — ____ (link ka izvoru)
+- **BUSI** — https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+- **BUS-BRA** — https://www.kaggle.com/datasets/orvile/bus-bra-a-breast-ultrasound-dataset
+- **BUS-UCLM** — https://www.kaggle.com/datasets/orvile/bus-uclm-breast-ultrasound-dataset/data
 
 Na Kaggle-u se skupovi dodaju kao *Input datasets*; putanje se podešavaju
 u prvoj ćeliji sveske (odeljak „1. Priprema okruženja").
